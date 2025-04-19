@@ -41,8 +41,8 @@ Dataset utilisé : [Netflix Movies and TV Shows](https://www.kaggle.com/datasets
 
 ```bash
 # Cloner le repo
-git clone https://github.com/ton-pseudo/netflix-data-analysis.git
-cd netflix-data-analysis
+git clone https://github.com/Malajason/analyse-netflix.git
+cd analyse-netflix
 
 # Lancer le notebook
 jupyter notebook
